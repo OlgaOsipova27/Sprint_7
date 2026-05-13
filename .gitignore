@@ -8,6 +8,5 @@ venv/
 env/
 .DS_Store
 Thumbs.db
-allure_results/
 *.log
 .env
